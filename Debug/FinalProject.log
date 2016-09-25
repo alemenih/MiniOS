@@ -1,0 +1,2 @@
+﻿menu2.obj : error LNK2001: unresolved external symbol "public: virtual struct CRuntimeClass * __thiscall CWindow::GetRuntimeClass(void)const " (?GetRuntimeClass@CWindow@@UBEPAUCRuntimeClass@@XZ)
+C:\Users\Amanuel\Desktop\BHCC\Fall 2015\Advanced C++(CIT284)\Projects\FinalProject\Debug\FinalProject.exe : fatal error LNK1120: 1 unresolved externals
